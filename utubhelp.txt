@@ -1,0 +1,32 @@
+If the bot doesn't reply, just wait (it's home-hosted).
+
+Supported links:
+- YouTube
+- SoundCloud
+- Instagram
+
+This bot just reply to your link with an mp3 file full with properly info (song name, artist and cover).
+
+Adding an option after the link will result in different files. To add an option, after the link, type a space and a minus (-), then attach the option code.
+Here are the options:
+- v, get mp4
+- i, get jpg
+- low, get worst quality (default is best)
+- med, get medium quality
+
+Telegram limits bots' files upload to 50MB, then don't try to download too large files (try use low quality option).
+
+Example of using options:
+
+youtube.com/watch?v=aAa0a0 -v
+
+You can also send messages directly to the bot's creator. To do this, just use the command "/msg" followed by the text (all in the same message). You can use this function to say anything to the creator, like tips, feature request, bugs report or also ask for info.
+
+Example:
+
+/msg Hi, what's up?
+
+If you write the command and the text in two different messages, the creator will not receive the message.
+
+From Italy
+with love.

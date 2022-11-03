@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<en><?English?>
+	<strt>Welcome. Let's try me:\nSend me a YouTube video's link.</strt>
+	<err1>You must send me only links.</err1>
+	<err2>This link doesn't work.</err2>
+	<err3>This isn't a supported link.</err3>
+	<err4>This isn't a YouTube video's link.</err4>
+	<err5>This video isn't available.</err5>
+	<err6>This isn't a SoundCloud song's link.</err6>
+	<err7>This song isn't available.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Error uploading file, probably because the file it's too big.</errUpload>
+	<dwnm>Downloading...</dwnm>
+	<dwnv>Downloading video...</dwnv>
+	<dwnp>Downloading picture...</dwnp>
+</en>
+<it><?Italian?>
+	<strt>Benvenuto. Provami:\nMandami un link a un video di YouTube.</strt>
+	<err1>Devi mandarmi solo link.</err1>
+	<err2>Questo link non funziona.</err2>
+	<err3>Questo non è un link supportato.</err3>
+	<err4>Questo non è un link a un video di YouTube</err4>
+	<err5>Questo video non è disponibile</err5>
+	<err6>Questo non è un link ad una traccia di SoundCloud.</err6>
+	<err7>Questa traccia non è disponibile.</err7>
+	<err8>Errore nello scaricare dal link di instagram. Forse perché non è un link ad un video.</err8>
+	<errUpload>Errore nel caricare il file, probabilmente perché il file è troppo grande.</errUpload>
+	<dwnm>Scaricamento...</dwnm>
+	<dwnv>Scaricamento video...</dwnv>
+	<dwnp>Scaricamento immagine...</dwnp>
+</it>
+<de><?German?>
+	<strt>Willkommen. Lassen Sie uns versuchen, mich:\nSende mir einen YouTube-video-link.</strt>
+	<err1>Du musst mir nur links schicken.</err1>
+	<err2>Dieser link funktioniert nicht.</err2>
+	<err3>Dies ist kein Youtube-link.</err3>
+	<err4>Dies ist kein YouTube-video-link.</err4>
+	<err5>Dieses video ist nicht verfügbar.</err5>
+	<err6>This isn't a SoundCloud song's link.</err6>
+	<err7>This song isn't available.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Error uploading file, probably because the file it's too big.</errUpload>
+	<dwnm>Wird heruntergeladen...</dwnm>
+	<dwnv>Video herunterladen...</dwnv>
+	<dwnp>Bild herunterladen...</dwnp>
+</de>
+<es><?Spanish?>
+	<strt>Bienvenidas. Vamos a probar conmigo:\nEnvíame un link de un video de YouTube.</strt>
+	<err1>Debes enviarme solo enlaces.</err1>
+	<err2>Este link no funciona.</err2>
+	<err3>Este no es un link de Youtube.</err3>
+	<err4>Este no es el link de un video de YouTube.</err4>
+	<err5>Este video no está disponible.</err5>
+	<err6>This isn't a SoundCloud song's link.</err6>
+	<err7>This song isn't available.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Error uploading file, probably because the file it's too big.</errUpload>
+	<dwnm>Descargando...</dwnm>
+	<dwnv>Descargando video...</dwnv>
+	<dwnp>Descargando imagen...</dwnp>
+</es>
+<ru><?Russian?>
+	<strt>Добро пожаловать. Давай попробуем меня:\nПришлите мне ссылку на видео на YouTube.</strt>
+	<err1>Вы должны присылать мне только ссылки.</err1>
+	<err2>Эта ссылка не работает.</err2>
+	<err3>Это не Ссылка на Youtube.</err3>
+	<err4>Это не Ссылка на видео с YouTube.</err4>
+	<err5>Это видео недоступно.</err5>
+	<err6>This isn't a SoundCloud song's link.</err6>
+	<err7>This song isn't available.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Error uploading file, probably because the file it's too big.</errUpload>
+	<dwnm>Загрузка...</dwnm>
+	<dwnv>Загрузка видео...</dwnv>
+	<dwnp>Загрузка картина...</dwnp>
+</ru>
+<fr><?French?>
+	<strt>Accueillir. Nous allons essayer de me:\nEnvoyez-moi le lien D'une vidéo YouTube.</strt>
+	<err1>Vous devez m'envoyer uniquement des liens.</err1>
+	<err2>Ce lien ne fonctionne pas.</err2>
+	<err3>Ce n'est pas un lien Youtube.</err3>
+	<err4>Ce n'est pas une vidéo de YouTube, lien.</err4>
+	<err5>Cette vidéo n'est pas disponible.</err5>
+	<err6>This isn't a SoundCloud song's link.</err6>
+	<err7>This song isn't available.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Error uploading file, probably because the file it's too big.</errUpload>
+	<dwnm>Télécharger...</dwnm>
+	<dwnv>Téléchargement de la vidéo...</dwnv>
+	<dwnp>Téléchargement de l'image...</dwnp>
+</fr>
+<ja><?Japanese?>
+	<strt>ようこそ！. 試してみよう:\n私にYouTubeのビデオのリンクを送信します。</strt>
+	<err1>郵送してくださいだけのリンクです。</err1>
+	<err2>このリンクは機能しません。</err2>
+	<err3>これはYoutubeのリンクではありません。</err3>
+	<err4>これはYouTubeのビデオのリンクではありません。</err4>
+	<err5>このビデオは利用できません。</err5>
+	<err6>This isn't a SoundCloud song's link.</err6>
+	<err7>This song isn't available.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Error uploading file, probably because the file it's too big.</errUpload>
+	<dwnm>ダウンロード...</dwnm>
+	<dwnv>動画のダウンロード...</dwnv>
+	<dwnp>ダウンロード画像...</dwnp>
+</ja>
+<zh><?Chinese?>
+	<strt>欢迎。. 让我们试试:\n给我一个YouTube视频的链接。</strt>
+	<err1>你必须给我只链接。</err1>
+	<err2>此链接不起作用。</err2>
+	<err3>这不是一个Youtube链接。</err3>
+	<err4>这不是YouTube视频的链接。</err4>
+	<err5>此视频不可用。</err5>
+	<err6>This isn't a SoundCloud song's link.</err6>
+	<err7>This song isn't available.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Error uploading file, probably because the file it's too big.</errUpload>
+	<dwnm>正在下载...</dwnm>
+	<dwnv>下载视频...</dwnv>
+	<dwnp>下载图像...</dwnp>
+</zh>
+<id><?Indonesian?>
+	<strt>Selamat datang:\nKirimkan Aku Video YouTube.</strt>
+	<err1>Anda harus mengirim saya hanya link.</err1>
+	<err2>Link ini tidak bekerja.</err2>
+	<err3>Ini bukan link Youtube.</err3>
+	<err4>Ini bukan link Video YouTube.</err4>
+	<err5>Video ini tidak tersedia.</err5>
+	<err6>This isn't a SoundCloud song's link.</err6>
+	<err7>This song isn't available.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Error uploading file, probably because the file it's too big.</errUpload>
+	<dwnm>Mengunduh...</dwnm>
+	<dwnv>Mengunduh video...</dwnv>
+	<dwnp>Mengunduh foto...</dwnp>
+</id>
+<pt><?Portuguese?>
+	<strt>Vir. Vamos tentar:\nEnvieme um link de vídeo do YouTube.</strt>
+	<err1>Deves enviarme apenas links.</err1>
+	<err2>Isto link não funciona.</err2>
+	<err3>Isto não é um link do Youtube.</err3>
+	<err4>Isto não é um link de um vídeo do YouTube.</err4>
+	<err5>Este vídeo não está disponível.</err5>
+	<err6>This isn't a SoundCloud song's link.</err6>
+	<err7>This song isn't available.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Error uploading file, probably because the file it's too big.</errUpload>
+	<dwnm>Descarregamento...</dwnm>
+	<dwnv>Descarregamento video...</dwnv>
+	<dwnp>Descarregamento imagem...</dwnp>
+</pt>
+<ar><?Arabic?>
+	<strt>اهلا وسهلا. دعونا نحاول لي: أرسل لي وصلة فيديو يوتيوب.</strt>
+	<err1>يجب أن ترسل لي روابط فقط.</err1>
+	<err2>هذا الرابط لا يعمل</err2>
+	<err3>هذا ليس رابط يوتيوب</err3>
+	<err4>هذا ليس رابط فيديو يوتيوب</err4>
+	<err5>هذا الفيديو غير متاح</err5>
+	<err6>This isn't a SoundCloud song's link.</err6>
+	<err7>This song isn't available.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Error uploading file, probably because the file it's too big.</errUpload>
+	<dwnm>تحميل...</dwnm>
+	<dwnv>تحميل الفيديو...</dwnv>
+	<dwnp>تحميل الصورة...</dwnp>
+</ar>
+<fa><?Persian?>
+	<strt>برای من لینک ویدیو یوتیوب را بفرست:\nمرا امتحان کن. خوش آمدید
+	<err1>شما باید برای من فقط لینک ارسال کنید</err1>
+	<err2>این لینک خراب است</err2>
+	<err3>این لینک پشتیبانی نمیشود</err3>
+	<err4>این یک لینک ویدئو یوتیوب نیست</err4>
+	<err5>این ویدئو در دسترس نمی باشد</err5>
+	<err6>این یک لینک SoundCloud song نیست</err6>
+	<err7>این آهنگ در دسترس نیست</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>.خطای آپلود فایل ،احتمالا به خاطر حجم زیاد فایل است</errUpload>
+	<dwnm>در حال دانلود...</dwnm>
+	<dwnv>در حال دانلود ویدئو...</dwnv>
+	<dwnp>در حال دانلود تصویر...</dwnp>
+</fa>
+<uz><?Uzbek?>
+	<strt>Xush kelibsiz. Keling meni sinaylik:\nMenga YouTube videosining linkini yuboring.</strt>
+	<err1>Siz menga faqat yo'nalishlarga yuborish kerak.</err1>
+	<err2>Bu link ishlamaydi.</err2>
+	<err3>Bu qo'llab-quvvatlanadigan havola emas.</err3>
+	<err4>Bu YouTube videosining aloqasi emas.</err4>
+	<err5>Bu video mavjud emas.</err5>
+	<err6>Bu SoundCloud qo'shiqning havola emas.</err6>
+	<err7>Bu qo'shiq mavjud emas.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Faylni yuklashda xatolik, ehtimol fayl juda katta.</errUpload>
+	<dwnm>Yuklab olish...</dwnm>
+	<dwnv>Videoni yuklab olish...</dwnv>
+	<dwnp>Rasmni yuklab olish...</dwnp>
+</uz>
+<he><?Hebrew?>
+	<strt>.שלח לי קישור לסרטון ביוטיוב\n:ברוך הבא. בוא ננסה אותי</strt>
+	<err1>.אתה חייב לשלוח לי רק קישורים</err1>
+	<err2>.הקישור הזה לא עובד</err2>
+	<err3>.זה לא קישור נתמך</err3>
+	<err4>.YouTube זה לא קישור של סרטון</err4>
+	<err5>.הסרטון הזה לא זמין</err5>
+	<err6>.זה לא קישור של שיר SoundCloud</err6>
+	<err7>.השיר הזה לא זמין</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>.שגיאה בהעלאת קובץ, כנראה בגלל הקובץ הוא גדול מדי</errUpload>
+	<dwnm>...מוריד</dwnm>
+	<dwnv>...מוריד וידאו</dwnv>
+	<dwnp>...מוריד תמונה</dwnp>
+</he>
+<tr><?Turkish?>
+	<strt>Hoşgeldiniz. Hadi beni deneyelim:\nBana bir YouTube videosunun bağlantısını gönderin.</strt>
+	<err1>Bana sadece bağlantılar göndermelisin.</err1>
+	<err2>Bu bağlantı çalışmıyor.</err2>
+	<err3>Bu desteklenen bir bağlantı değil.</err3>
+	<err4>Bu bir YouTube videosunun bağlantısı değil.</err4>
+	<err5>Bu video mevcut değil.</err5>
+	<err6>Bu bir SoundCloud şarkısının bağlantısı değil.</err6>
+	<err7>Bu şarkı mevcut değil.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Dosya yüklenirken hata oluştu, muhtemelen dosya çok büyük olduğu için.</errUpload>
+	<dwnm>İndirir...</dwnm>
+	<dwnv>Video indiriliyor...</dwnv>
+	<dwnp>Resim indiriliyor...</dwnp>
+</tr>
+<ms><?Malay?>
+	<strt>Dialu-alukan. Mari kita cuba saya:\nMengirimku video YouTube kita link.</strt>
+	<err1>Anda mesti menghantar saya hanya link.</err1>
+	<err2>Link ini tidak bekerja.</err2>
+	<err3>Ini bukan disokong link.</err3>
+	<err4>Ini bukan video YouTube kita link.</err4>
+	<err5>Video ini tidak tersedia.</err5>
+	<err6>Ini bukan SoundCloud lagu link.</err6>
+	<err7>Lagu ini tidak tersedia.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Ralat naik file, mungkin kerana fail itu terlalu besar.</errUpload>
+	<dwnm>Men-download...</dwnm>
+	<dwnv>Men-download video...</dwnv>
+	<dwnp>Men-download gambar...</dwnp>
+</ms>
+<eu><?Basque?>
+	<strt>Ongi etorria. Dezagun saiatu me:\nBidali niri YouTube bideo bat da lotura.</strt>
+	<err1>Behar duzu bidali niri bakarrik loturak.</err1>
+	<err2>Esteka honetan ez du funtzionatzen.</err2>
+	<err3>Hau ez da onartzen lotura.</err3>
+	<err4>Hau ez da YouTube bideo bat da lotura.</err4>
+	<err5>Bideo hau ez dago eskuragarri.</err5>
+	<err6>Hau ez da SoundCloud abestia da lotura.</err6>
+	<err7>Abesti hau ez dago eskuragarri.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Errorea fitxategia igotzean, ziurrenik delako fitxategia handiegia da.</errUpload>
+	<dwnm>Deskargatzea...</dwnm>
+	<dwnv>Deskargatu bideoa...</dwnv>
+	<dwnp>Deskargatu irudi...</dwnp>
+</eu>
+<uk><?Ukrainian?>
+	<strt>Ласкаво просимо. Давай спробуємо мене:\nНадішліть мені посилання на відео на YouTube.</strt>
+	<err1>Ви повинні надсилати мені лише посилання.</err1>
+	<err2>Це посилання не працює.</err2>
+	<err3>Це не підтримуване посилання.</err3>
+	<err4>Це не посилання на відео YouTube.</err4>
+	<err5>Це відео недоступне.</err5>
+	<err6>Це не посилання на пісню SoundCloud.</err6>
+	<err7>Ця пісня недоступна.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Помилка завантаження файлу, ймовірно, тому, що файл занадто великий.</errUpload>
+	<dwnm>Завантаження...</dwnm>
+	<dwnv>Завантаження відео...</dwnv>
+	<dwnp>Завантаження зображення...</dwnp>
+</uk>
+<ro><?Romanian/Moldavian?>
+	<strt>Bine ați venit. Să încercăm cu mine:\nTrimite-mi un link către un videoclip de pe YouTube.</strt>
+	<err1>Trebuie să-mi trimiteți doar link-uri.</err1>
+	<err2>Acest link nu funcționează.</err2>
+	<err3>Acesta nu este un link acceptat.</err3>
+	<err4>Acesta nu este un link pentru un videoclip YouTube.</err4>
+	<err5>Acest videoclip nu este disponibil.</err5>
+	<err6>Acesta nu este un link pentru un cântec SoundCloud.</err6>
+	<err7>Acest cântec nu este disponibil.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Eroare la încărcarea fișierului, probabil pentru că fișierul este prea mare.</errUpload>
+	<dwnm>Descărcarea...</dwnm>
+	<dwnv>Descărcarea video...</dwnv>
+	<dwnp>Descărcarea imaginii...</dwnp>
+</ro>
+<el><?Greek?>
+	<strt>Καλώς ήρθατε. Ας δοκιμάσουμε εμένα:\nΣτείλτε μου τον σύνδεσμο ενός βίντεο στο YouTube.</strt>
+	<err1>Πρέπει να μου στέλνετε μόνο συνδέσμους.</err1>
+	<err2>Αυτός ο σύνδεσμος δεν λειτουργεί.</err2>
+	<err3>Αυτός ο σύνδεσμος δεν υποστηρίζεται.</err3>
+	<err4>Αυτός δεν είναι ο σύνδεσμος ενός βίντεο στο YouTube.</err4>
+	<err5>Αυτό το βίντεο δεν είναι διαθέσιμο.</err5>
+	<err6>Αυτός δεν είναι ο σύνδεσμος ενός τραγουδιού στο SoundCloud.</err6>
+	<err7>Αυτό το τραγούδι δεν είναι διαθέσιμο.</err7>
+	<err8>Error downloading from instagram link. Maybe it's not a video link.</err8>
+	<errUpload>Σφάλμα μεταφόρτωσης αρχείου, πιθανότατα επειδή το αρχείο είναι πολύ μεγάλο.</errUpload>
+	<dwnm>Λήψη...</dwnm>
+	<dwnv>Λήψη βίντεο...</dwnv>
+	<dwnp>Λήψη εικόνας...</dwnp>
+</el>
